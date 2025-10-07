@@ -1,4 +1,4 @@
-module github.com/TutorialEdge/realtime-chat-go-react
+module github.com/3bdo-Yahya/Chatify
 
 go 1.25.1
 
