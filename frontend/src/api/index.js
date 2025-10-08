@@ -1,4 +1,5 @@
-var socket = new WebSocket("ws://localhost:8080/ws");
+// Production WebSocket endpoint
+var socket = new WebSocket("wss://chatify-back-production.up.railway.app/ws");
 
 let connect = cb => {
     console.log("Attempting Connection...");
